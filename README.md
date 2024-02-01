@@ -17,8 +17,7 @@ Ciao, sono Ubaldo, uno sviluppatore Java. Benvenuto nel mio GitHub, dove trovera
 - LinkedIn: [Ubaldo Capalbo](www.linkedin.com/in/ubaldo-capalbo-96250b2b1)
 - Email: ubaldocapalbo@gmail.com
 
-- Happy coding! 👨‍💻
-- ⭐️ From [UbaldoCap](https://github.com/[UbaldoCap])
+- Happy coding! 👨‍💻         ⭐️ From [UbaldoCap](https://github.com/[UbaldoCap])
 <!--
 **UbaldoCap/UbaldoCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
